@@ -1,0 +1,38 @@
+{
+  "short_name": "Notes Hub",
+  "name": "Class XI Biology — Notes Hub",
+  "description": "Open community archive of CBSE Class XI Biology notes, PDFs, sketches and whiteboard diagrams.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3A7D44",
+  "background_color": "#FBFCF7",
+  "categories": ["education", "books", "productivity"],
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "Open Whiteboard",
+      "short_name": "Whiteboard",
+      "url": "/whiteboard"
+    },
+    {
+      "name": "Browse Notes",
+      "short_name": "Browse",
+      "url": "/notes"
+    },
+    {
+      "name": "Share a Note",
+      "short_name": "Upload",
+      "url": "/upload"
+    }
+  ]
+}
