@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FBFCF7"/>
+  <circle cx="256" cy="256" r="200" fill="#3A7D44"/>
+  <path d="M256 110 C 200 110, 156 150, 156 220 C 156 270, 190 310, 220 320 C 230 280, 260 240, 296 230 C 280 280, 270 320, 280 380 C 320 360, 356 310, 356 250 C 356 170, 312 110, 256 110 Z" fill="#FBFCF7"/>
+  <text x="256" y="445" font-family="Georgia, serif" font-size="60" font-style="italic" fill="#FBFCF7" text-anchor="middle">Notes</text>
+</svg>
